@@ -1,5 +1,5 @@
-project: rnshah9/playground
-target: playground
+project: lzsa
+target: lzsa
 
 cmds:
-  - cmd: /lzsa/lzsa @@ output
+  - cmd: /lzsa/lzsa @@ /dev/null
