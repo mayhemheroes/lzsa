@@ -2,4 +2,4 @@ project: lzsa
 target: lzsa
 
 cmds:
-  - cmd: /lzsa/lzsa @@ /dev/null
+  - cmd: /lzsa @@ /dev/null
